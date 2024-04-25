@@ -10,7 +10,7 @@ body {
   align-items: center;
   justify-content: center;
   background: #ffffff;
-  background-image: url('./img/fundo_imagem.jpg');
+  background-image: url('img/fundo_imagem.jpg');
   background-size: 100% 100%;
 }
 
