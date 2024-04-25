@@ -119,7 +119,7 @@ body {
   font-size: 30px;
 }
 
-.botao {
+#botao {
   position: absolute;
   top: 50%;
   right: 0;
